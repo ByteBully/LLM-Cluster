@@ -1,0 +1,17 @@
+{
+  "peer": "",
+  "iperf_port": "5201",
+  "rpc_port": "50052",
+  "api_port": "8080",
+  "model": "",
+  "llama_dir": "/home/gpucluster/llama.cpp/build/bin",
+  "wsl_distro": "Ubuntu-24.04",
+  "role": "host",
+  "baseline_tps": "",
+  "payload_mb": "8",
+  "sync_per_token": "2",
+  "target_tps": "10",
+  "context": "16384",
+  "gpu_layers": "99",
+  "tensor_split": ""
+}
